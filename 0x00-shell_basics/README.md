@@ -1,1 +1,1 @@
-where am i
+file 0-current_working_directory
